@@ -159,8 +159,7 @@
     .sec2 .welcome {
         height: 100%;
         width: 100%;
-        /*padding-bottom: 40px;*/
-        padding-top: 700px;
+        padding-bottom: 40px;
         position: absolute;
         left: 0;
         top: 0;
@@ -174,7 +173,7 @@
         font-size: 23px;
         text-align: center;
         position: relative;
-        top: -240px;
+        top: -10px;
     }
     .sec2 .welcome p {
         text-align: center;
